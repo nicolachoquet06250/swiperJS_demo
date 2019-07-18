@@ -1,0 +1,12 @@
+.swiper-container {
+	width: 100%;
+	margin: 0;
+}
+
+.swiper-container .swiper-slide {
+	padding: 5px;
+}
+
+.swiper-navigation-button.hide, .swiper-pagination.hide {
+	display: none;
+}
